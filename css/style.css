@@ -257,14 +257,14 @@
 	
 	.divider-5, .divider-10, .divider-15, .divider-20, .divider-30, .divider-45, .divider-60 {
 		float: left;
-		height: 45px;
+		height: 30px;
 		overflow: hidden;
 		margin-top: 0;
 		width: 100%;
 		
 	}
 	
-	.divider-45 { height: 45px; }
+	.divider-45 { height: 30px; }
 	.divider-30 { height: 30px; }
 	.divider-20 { height: 20px; }
 	.divider-15 { height: 15px; }
