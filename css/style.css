@@ -243,7 +243,12 @@
 		margin-right: 20px;	
 		width: 135px;
 	}
-	
+	.grid_20 {
+		margin-right: 30px;
+		width: 180px;
+		float: left;
+	}
+
 	
 	.last {
 		margin-right: 0;
